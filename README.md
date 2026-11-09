@@ -67,6 +67,9 @@ Maintaining and upgrading an existing PC rather than replacing the entire platfo
 
 
 ![Build 3](./images/Build%203%20Case%20Only.jpg)
+
+(Sadly I could not find a picture of the full build when done so I just added the case for reference)
+
 Build 03 – Ryzen 5 8500F & RTX 3070 Custom PC
 Overview
 A custom desktop PC planned and assembled for a friend who was transitioning from console gaming to PC gaming.
@@ -102,3 +105,5 @@ Troubleshooting a no-display boot issue.
 Understanding motherboard RAM slot population requirements.
 Inspecting second-hand hardware before installation.
 Verifying system functionality after assembly.
+
+
